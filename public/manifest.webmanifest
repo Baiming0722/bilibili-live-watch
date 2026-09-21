@@ -1,0 +1,31 @@
+{
+  "name": "BiliLive Watch — 直播間監看工具",
+  "short_name": "BiliLive Watch",
+  "description": "本機 BiliBili 直播間監看工具",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f14",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-maskable.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "lang": "zh-Hant",
+  "categories": ["utilities", "entertainment"]
+}
